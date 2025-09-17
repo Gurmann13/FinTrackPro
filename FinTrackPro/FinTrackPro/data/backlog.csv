@@ -1,0 +1,5 @@
+user_id,title,description,category,priority,status,due_date,estimated_amount,notes,created_at,updated_at,task_id
+1,Furniture,Want to buy study setup.,Savings Goal,Urgent,Pending,2025-08-17,,,2025-08-15 14:52:42,2025-08-15 14:52:42,1
+3,Golf,Will play golf on this date.,Other,Medium,Pending,2025-08-24,90.0,,2025-08-18 00:44:48,2025-08-18 00:44:48,2
+3,Invest money,Investing in some stocks.,Investment,High,Pending,2025-08-19,300.0,,2025-08-18 00:46:41,2025-08-18 00:46:41,3
+3,Defender Black Car,New Car Insurance pending for this year,Insurance,High,Pending,2025-09-05,850.0,,2025-08-31 15:32:44,2025-08-31 15:32:44,4

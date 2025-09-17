@@ -1,0 +1,9 @@
+user_id,date,amount,category,description,payment_method,notes,created_at,expense_id
+1,2025-08-15,340.0,Food & Dining,We had a dinner,Cash,,2025-08-15 14:49:02,1
+1,2025-08-15,230.0,Entertainment,we watched a movie in a theatre.,Cash,,2025-08-15 14:49:39,2
+3,2025-08-11,360.0,Food & Dining,Dinner,Cash,,2025-08-18 00:37:16,3
+3,2025-08-18,240.0,Entertainment,Watched movie,Cash,,2025-08-18 00:37:36,4
+3,2025-08-18,480.0,Shopping,Did shopping for my friend,Digital Wallet,,2025-08-18 00:42:08,5
+3,2025-08-18,510.0,Travel,Booked tickets for a trip.,Credit Card,,2025-08-18 00:42:43,6
+3,2025-08-18,700.0,Education,Paid my school fees,Bank Transfer,,2025-08-18 00:43:28,7
+3,2025-08-31,500.0,Food & Dining,Birthday Party,Bank Transfer,Family Dinner for Mother's Birthday,2025-08-31 15:20:45,8

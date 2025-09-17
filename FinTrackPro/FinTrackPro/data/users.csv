@@ -1,0 +1,6 @@
+user_id,username,email,password_hash,full_name,created_at,last_login,is_active
+1,Dhillon,dhillon84@gmail.com,14f8f4bb8c0e79a02670a5fea5682da717a5b3d3dc7b1706f7a4bab9afae18c2,Gurmann Singh,2025-08-15 14:45:42,2025-08-15 14:55:13,True
+2,Singh,singh96@gmail.com,28a9aed787a150d0c9ffe78a3e9f7ada838b149f6ddcb684dfc8948b750102a2,Singh,2025-08-15 23:45:01,2025-08-15 23:45:38,True
+3,Seva,abc@gmail.com,eb19a0c55814bf1ef503d81b8b2d0f4d9474e09fb4fc9203c9410134144745b3,Gurmann Singh,2025-08-18 00:35:04,2025-09-08 15:14:11,True
+4,DwayneJohnson,dwayne@gmail.com,094dacfa4ae26448b7e7fdb6bf45b639ea9c9de2f942aa42310305f0657f9c61,Dwayne Johnson,2025-08-22 10:46:40,2025-08-22 10:46:56,True
+5,5ukhmann,dwayn@gmail.com,e58dde9e8172c44f21cdc314a0adb587558d01d395c6198c99a116b825877b49,Sukhmann Singh Dhillon,2025-08-31 15:04:57,2025-08-31 15:09:51,True
